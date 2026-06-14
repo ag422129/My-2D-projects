@@ -1,0 +1,45 @@
+# BreakPong (Unity + C#)
+
+A hybrid arcade game combining mechanics from Pong and Breakout. Built using Unity 2D.
+
+---
+
+## Gameplay Overview
+
+Players control a paddle to keep the ball in play while breaking all bricks. The game includes scoring, game states, and restart mechanics.
+
+---
+
+## Features
+
+- Paddle movement system
+- Ball physics with collision reflection
+- Brick destruction system
+- Score tracking system
+- Game over and restart system
+- Basic UI (Main Menu / Gameplay / Game Over)
+
+---
+
+## Technical Highlights
+
+- Unity Physics (Rigidbody2D, Colliders)
+- Game state management (Menu → Playing → Game Over)
+- Event-based scoring system
+- Modular C# scripts (Paddle, Ball, GameManager)
+
+---
+
+
+## Gameplay Recording
+
+https://youtu.be/yB2ZwtskCW8
+
+---
+
+## What I Learned
+
+- Unity physics and collision system
+- Game loop architecture
+- UI system (Canvas, TextMeshPro)
+- Managing game states in C#
