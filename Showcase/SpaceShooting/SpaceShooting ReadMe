@@ -1,0 +1,53 @@
+# Space Shooter (Unity + C#)
+
+A 2D arcade-style space shooter with wave-based enemy spawning and boss mechanics.
+
+---
+
+## Gameplay Overview
+
+Player controls a spaceship, fights enemy waves, and survives increasingly difficult levels.
+
+---
+
+## Features
+
+- Player movement and shooting system
+- Wave-based enemy spawning system
+- Enemy AI (movement patterns + attack logic)
+- Boss fight mechanics
+- Score system
+- UI system (health, score, game over)
+
+---
+
+## Technical Highlights
+
+- State-based enemy behavior system
+- Coroutine-based wave spawning
+- Object pooling (if you have it)
+- Modular game architecture (GameManager driven)
+- Real-time gameplay system design
+
+---
+
+## Screenshots
+
+- Gameplay
+- Boss fight
+- Game over screen
+
+---
+
+## Gameplay Recording
+
+https://youtu.be/roZvB4lsb2k
+
+---
+
+## 📚 What I Learned
+
+- Designing real-time game systems
+- AI state machines (basic enemy behavior)
+- Unity coroutine system
+- Structuring scalable gameplay logic
